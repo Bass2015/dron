@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv*/
+.ipynb_checkpoints/
+
+# Editors and OS
+.DS_Store
+.vscode/
+
+# Data, models and results (not redistributed)
+data/
+papers/
+learning/results/
+learning/Episode_*/
+*.pt
+*.pkl

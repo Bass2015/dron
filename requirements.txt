@@ -1,0 +1,6 @@
+gymnasium
+gym-pybullet-drones
+pybullet
+numpy
+torch
+plotly
